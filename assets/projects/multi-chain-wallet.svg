@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="232" viewBox="0 0 580 232" fill="none" role="img" aria-labelledby="title">
+<title id="title">Multi-Chain Wallet Viewer: Derives Bitcoin Testnet, Ethereum Sepolia and TRON Nile addresses from a single BIP-39 mnemonic over BIP-44 paths. Node.js API, Angular UI; keys never leave the backend.</title>
+<style>
+  .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .pulse { animation: pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  .flow { stroke-dasharray: 3 5; animation: flow 1.2s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -16; } }
+
+  .scan { stroke-dasharray: 70 930; animation: scan 9s linear infinite; }
+  @keyframes scan { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><clipPath id="frame"><rect width="580" height="232" rx="16"/></clipPath></defs>
+<rect x=".5" y=".5" width="579" height="231" rx="16" fill="#000000" stroke="#1f1f1f"/>
+<g clip-path="url(#frame)">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity=".09"/></pattern>
+  <radialGradient id="fadeGrad" cx=".9" cy=".1" r=".7"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="fade"><rect width="580" height="232" fill="url(#fadeGrad)"/></mask>
+</defs>
+<rect width="580" height="232" fill="url(#dots)" mask="url(#fade)"/>
+<rect class="scan" style="animation-delay:-0s" x="1" y="1" width="578" height="230" rx="15" stroke="#fafafa" stroke-width="1.5" pathLength="1000"/>
+<circle class="pulse" cx="32" cy="34" r="3.5" fill="#fafafa"/>
+<text x="44" y="38" font-size="11" class="mono" textLength="125.4" lengthAdjust="spacingAndGlyphs" fill="#737373">0x01  ·  TYPESCRIPT</text>
+<text x="354" y="38" font-size="11" class="mono" textLength="198.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">RK-Rohan/multi-chain-wallet  ↗</text>
+<text x="28" y="80" font-size="24" font-weight="700" letter-spacing="-.4" class="sans" fill="#fafafa">Multi-Chain Wallet Viewer</text>
+<text x="28" y="110" font-size="14" class="sans" fill="#a3a3a3">Derives Bitcoin Testnet, Ethereum Sepolia and TRON Nile addresses</text>
+<text x="28" y="131" font-size="14" class="sans" fill="#a3a3a3">from a single BIP-39 mnemonic over BIP-44 paths. Node.js API,</text>
+<text x="28" y="152" font-size="14" class="sans" fill="#a3a3a3">Angular UI; keys never leave the backend.</text>
+<rect x="28" y="182" width="66.2" height="24" rx="6" fill="#0a0a0a" stroke="#262626"/><text x="38" y="197.96" font-size="11" class="mono" textLength="46.2" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Node.js</text>
+<rect x="100.19999999999999" y="182" width="66.2" height="24" rx="6" fill="#0a0a0a" stroke="#262626"/><text x="110.19999999999999" y="197.96" font-size="11" class="mono" textLength="46.2" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Angular</text>
+<rect x="172.39999999999998" y="182" width="86.0" height="24" rx="6" fill="#0a0a0a" stroke="#262626"/><text x="182.39999999999998" y="197.96" font-size="11" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">TypeScript</text>
+<rect x="264.4" y="182" width="92.6" height="24" rx="6" fill="#0a0a0a" stroke="#262626"/><text x="274.4" y="197.96" font-size="11" class="mono" textLength="72.6" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">BIP-39 / 44</text>
+</g>
+</svg>

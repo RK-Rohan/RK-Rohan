@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="321" viewBox="0 0 1200 321" fill="none" role="img" aria-labelledby="title">
+<title id="title">Career: Software Developer at RAWN Technologies Ltd.; Software Engineer at Grace Web Tech Ltd.; Senior Software Engineer at BMIT Solutions Ltd.; System Engineer at RingTech Bangladesh Ltd.; Senior Full-Stack Software Engineer / Project Manager at 3DEVs IT Ltd.; Senior Software Engineer / Team Lead at Nexorabyte IT Solution; Lead Software Engineer at Aline Mart Ltd. / Aline Group</title>
+<style>
+  .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .pulse { animation: pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  .flow { stroke-dasharray: 3 5; animation: flow 1.2s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -16; } }
+
+  .blk { animation: confirm 5.6000000000000005s infinite; }
+  @keyframes confirm { 0%, 10% { stroke: #fafafa; } 20%, 100% { stroke: #262626; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><clipPath id="frame"><rect width="1200" height="321" rx="18"/></clipPath></defs>
+<rect x=".5" y=".5" width="1199" height="320" rx="18" fill="#000000" stroke="#1f1f1f"/>
+<g clip-path="url(#frame)">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity=".09"/></pattern>
+  <radialGradient id="fadeGrad" cx=".5" cy=".5" r=".7"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="fade"><rect width="1200" height="321" fill="url(#fadeGrad)"/></mask>
+</defs>
+<rect width="1200" height="321" fill="url(#dots)" mask="url(#fade)"/>
+<text x="40" y="46" font-size="12" class="mono" textLength="108.0" lengthAdjust="spacingAndGlyphs" fill="#737373" letter-spacing="1">// CAREER CHAIN</text>
+<text x="965.6" y="46" font-size="12" class="mono" textLength="194.4" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">GENESIS 2012  -&gt;  HEAD 2025</text>
+<path d="M 182 98 L 203 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 182 98 L 203 98" dur="0.8s" begin="0s" repeatCount="indefinite"/></rect>
+<path d="M 345 98 L 366 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 345 98 L 366 98" dur="0.8s" begin="0.8s" repeatCount="indefinite"/></rect>
+<path d="M 508 98 L 529 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 508 98 L 529 98" dur="0.8s" begin="1.6000000000000003s" repeatCount="indefinite"/></rect>
+<path d="M 671 98 L 692 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 671 98 L 692 98" dur="0.8s" begin="2.4000000000000004s" repeatCount="indefinite"/></rect>
+<path d="M 834 98 L 855 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 834 98 L 855 98" dur="0.8s" begin="3.2s" repeatCount="indefinite"/></rect>
+<path d="M 997 98 L 1018 98" class="flow" stroke="#a3a3a3"/><rect x="-2" y="-2" width="4" height="4" fill="#fafafa"><animateMotion path="M 997 98 L 1018 98" dur="0.8s" begin="4.000000000000001s" repeatCount="indefinite"/></rect>
+<g>
+  <rect class="blk" style="animation-delay:0s" x="40" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="54" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#01</text>
+  
+  <text x="54" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2012 - 2016</text>
+  <text x="54" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">RAWN</text><text x="54" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Technologies</text><text x="54" y="176" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Ltd.</text>
+  <text x="54" y="201" font-size="10" class="mono" textLength="108.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Software Developer</text>
+  <line x1="54" y1="253" x2="168" y2="253" stroke="#1a1a1a"/>
+  <text x="54" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0xf04e9620</text>
+</g>
+<g>
+  <rect class="blk" style="animation-delay:0.8s" x="203" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="217" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#02</text>
+  
+  <text x="217" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2018 - 2020</text>
+  <text x="217" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Grace Web Tech</text><text x="217" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Ltd.</text>
+  <text x="217" y="201" font-size="10" class="mono" textLength="102.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Software Engineer</text>
+  <line x1="217" y1="253" x2="331" y2="253" stroke="#1a1a1a"/>
+  <text x="217" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0xebd1860a</text>
+</g>
+<g>
+  <rect class="blk" style="animation-delay:1.6s" x="366" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="380" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#03</text>
+  
+  <text x="380" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2022 - 2023</text>
+  <text x="380" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">BMIT Solutions</text><text x="380" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Ltd.</text>
+  <text x="380" y="201" font-size="10" class="mono" textLength="90.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Senior Software</text><text x="380" y="215" font-size="10" class="mono" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Engineer</text>
+  <line x1="380" y1="253" x2="494" y2="253" stroke="#1a1a1a"/>
+  <text x="380" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0xe1e714f0</text>
+</g>
+<g>
+  <rect class="blk" style="animation-delay:2.4000000000000004s" x="529" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="543" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#04</text>
+  
+  <text x="543" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2023 - 2024</text>
+  <text x="543" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">RingTech</text><text x="543" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Bangladesh Ltd.</text>
+  <text x="543" y="201" font-size="10" class="mono" textLength="90.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">System Engineer</text>
+  <line x1="543" y1="253" x2="657" y2="253" stroke="#1a1a1a"/>
+  <text x="543" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0x525a4df9</text>
+</g>
+<g>
+  <rect class="blk" style="animation-delay:3.2s" x="692" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="706" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#05</text>
+  
+  <text x="706" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2024 - 2025</text>
+  <text x="706" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">3DEVs IT Ltd.</text>
+  <text x="706" y="201" font-size="10" class="mono" textLength="102.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Senior Full-Stack</text><text x="706" y="215" font-size="10" class="mono" textLength="102.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Software Engineer</text><text x="706" y="229" font-size="10" class="mono" textLength="102.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">/ Project Manager</text>
+  <line x1="706" y1="253" x2="820" y2="253" stroke="#1a1a1a"/>
+  <text x="706" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0x0f51d2d2</text>
+</g>
+<g>
+  <rect class="blk" style="animation-delay:4s" x="855" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#262626"/>
+  <text x="869" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#06</text>
+  
+  <text x="869" y="122" font-size="10" class="mono" textLength="66.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2025 - 2025</text>
+  <text x="869" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Nexorabyte IT</text><text x="869" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Solution</text>
+  <text x="869" y="201" font-size="10" class="mono" textLength="90.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Senior Software</text><text x="869" y="215" font-size="10" class="mono" textLength="90.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Engineer / Team</text><text x="869" y="229" font-size="10" class="mono" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Lead</text>
+  <line x1="869" y1="253" x2="983" y2="253" stroke="#1a1a1a"/>
+  <text x="869" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0x56677046</text>
+</g>
+<g>
+  <rect  x="1018" y="76" width="142" height="205" rx="10" fill="#000000" stroke="#fafafa"/>
+  <text x="1032" y="102" font-size="10" class="mono" textLength="18.0" lengthAdjust="spacingAndGlyphs" fill="#737373">#07</text>
+  <rect class="pulse" x="1104" y="88" width="42" height="18" rx="9" fill="#fafafa"/><text x="1113" y="101" font-size="10" class="mono" textLength="24.0" lengthAdjust="spacingAndGlyphs" fill="#000000" font-weight="700">HEAD</text>
+  <text x="1032" y="122" font-size="10" class="mono" textLength="60.0" lengthAdjust="spacingAndGlyphs" fill="#fafafa">2025 - NOW</text>
+  <text x="1032" y="142" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">Aline Mart Ltd.</text><text x="1032" y="159" font-size="12.5" font-weight="600" class="sans" fill="#fafafa">/ Aline Group</text>
+  <text x="1032" y="201" font-size="10" class="mono" textLength="78.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Lead Software</text><text x="1032" y="215" font-size="10" class="mono" textLength="48.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">Engineer</text>
+  <line x1="1032" y1="253" x2="1146" y2="253" stroke="#1a1a1a"/>
+  <text x="1032" y="269" font-size="9" class="mono" textLength="54.0" lengthAdjust="spacingAndGlyphs" fill="#525252">0xdfb87b22</text>
+</g>
+</g>
+</svg>

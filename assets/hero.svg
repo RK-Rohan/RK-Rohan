@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-labelledby="title">
+<title id="title">Rezaul Karim: Lead Software Engineer / Engineering Team Lead</title>
+<style>
+  .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  .pulse { animation: pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  .flow { stroke-dasharray: 3 5; animation: flow 1.2s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -16; } }
+
+  .role { opacity: 0; animation: role 15s infinite; }
+  @keyframes role { 0% { opacity: 1; transform: none; } 17.50% { opacity: 1; transform: none; }
+    20.00% { opacity: 0; transform: translateY(-10px); } 97.5% { opacity: 0; transform: translateY(10px); } 100% { opacity: 1; transform: none; } }
+  .caret { animation: caret 1s steps(1) infinite; }
+  @keyframes caret { 50% { opacity: 0; } }
+  .ticker { animation: ticker 65.1s linear infinite; }
+  @keyframes ticker { to { transform: translateX(-2930.4px); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs><clipPath id="frame"><rect width="1200" height="460" rx="18"/></clipPath></defs>
+<rect x=".5" y=".5" width="1199" height="459" rx="18" fill="#000000" stroke="#1f1f1f"/>
+<g clip-path="url(#frame)">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" opacity=".09"/></pattern>
+  <radialGradient id="fadeGrad" cx=".78" cy=".48" r=".7"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="fade"><rect width="1200" height="460" fill="url(#fadeGrad)"/></mask>
+</defs>
+<rect width="1200" height="460" fill="url(#dots)" mask="url(#fade)"/>
+<radialGradient id="glow" cx="935" cy="222" r="230" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<circle cx="935" cy="222" r="230" fill="url(#glow)"/>
+
+<circle class="pulse" cx="52" cy="40" r="4" fill="#fafafa"/>
+<text x="66" y="44" font-size="12" class="mono" textLength="252.0" lengthAdjust="spacingAndGlyphs" fill="#a3a3a3">NODE ONLINE  ·  github.com/RK-Rohan</text>
+<text x="921.6" y="44" font-size="12" class="mono" textLength="230.4" lengthAdjust="spacingAndGlyphs" fill="#737373">GENESIS 2012-03  ·  HEAD 2025-09</text>
+<line x1="48" y1="64" x2="1152" y2="64" stroke="#1a1a1a"/>
+
+<text x="48" y="128" font-size="12" class="mono" textLength="352.8" lengthAdjust="spacingAndGlyphs" fill="#737373" letter-spacing="1">// LEAD SOFTWARE ENGINEER / ENGINEERING TEAM LEAD</text>
+<text class="sans" x="44" y="206" font-size="72" font-weight="700" letter-spacing="-2" fill="#fafafa">Rezaul Karim</text>
+<text x="48" y="262" font-size="19" class="mono" textLength="11.4" lengthAdjust="spacingAndGlyphs" fill="#737373">&gt;</text>
+<g class="role" style="animation-delay:0s"><text x="70.8" y="262" font-size="19" class="mono" textLength="250.8" lengthAdjust="spacingAndGlyphs" fill="#fafafa">Lead Software Engineer</text><rect class="caret" x="325.6" y="246" width="10" height="20" fill="#fafafa"/></g>
+<g class="role" style="animation-delay:3s"><text x="70.8" y="262" font-size="19" class="mono" textLength="239.4" lengthAdjust="spacingAndGlyphs" fill="#fafafa">Engineering Team Lead</text><rect class="caret" x="314.2" y="246" width="10" height="20" fill="#fafafa"/></g>
+<g class="role" style="animation-delay:6s"><text x="70.8" y="262" font-size="19" class="mono" textLength="205.2" lengthAdjust="spacingAndGlyphs" fill="#fafafa">Solution Architect</text><rect class="caret" x="280.0" y="246" width="10" height="20" fill="#fafafa"/></g>
+<g class="role" style="animation-delay:9s"><text x="70.8" y="262" font-size="19" class="mono" textLength="307.8" lengthAdjust="spacingAndGlyphs" fill="#fafafa">FinTech / Payments Engineer</text><rect class="caret" x="382.6" y="246" width="10" height="20" fill="#fafafa"/></g>
+<g class="role" style="animation-delay:12s"><text x="70.8" y="262" font-size="19" class="mono" textLength="319.2" lengthAdjust="spacingAndGlyphs" fill="#fafafa">DevOps &amp; Automation Engineer</text><rect class="caret" x="394.0" y="246" width="10" height="20" fill="#fafafa"/></g>
+<text x="48" y="306" font-size="16" class="sans" fill="#a3a3a3">10+ years across e-commerce, ERP, fintech, VAT / compliance systems and</text>
+<text x="48" y="330" font-size="16" class="sans" fill="#a3a3a3">telecom, leading teams through architecture, DevOps and automation.</text>
+<g>
+  <rect x="48" y="350" width="136" height="44" rx="8" fill="#0a0a0a" stroke="#262626"/>
+  <text x="62" y="378" font-size="18" font-weight="700" class="sans" fill="#fafafa">10+</text>
+  <text x="106" y="377" font-size="10" class="mono" textLength="30.0" lengthAdjust="spacingAndGlyphs" fill="#737373">YEARS</text>
+</g>
+<g>
+  <rect x="198" y="350" width="136" height="44" rx="8" fill="#0a0a0a" stroke="#262626"/>
+  <text x="212" y="378" font-size="18" font-weight="700" class="sans" fill="#fafafa">7</text>
+  <text x="232" y="377" font-size="10" class="mono" textLength="30.0" lengthAdjust="spacingAndGlyphs" fill="#737373">ROLES</text>
+</g>
+<g>
+  <rect x="348" y="350" width="136" height="44" rx="8" fill="#0a0a0a" stroke="#262626"/>
+  <text x="362" y="378" font-size="18" font-weight="700" class="sans" fill="#fafafa">9</text>
+  <text x="382" y="377" font-size="10" class="mono" textLength="72.0" lengthAdjust="spacingAndGlyphs" fill="#737373">SKILL BLOCKS</text>
+</g>
+<g>
+  <rect x="498" y="350" width="136" height="44" rx="8" fill="#0a0a0a" stroke="#262626"/>
+  <text x="512" y="378" font-size="18" font-weight="700" class="sans" fill="#fafafa">82</text>
+  <text x="544" y="377" font-size="10" class="mono" textLength="36.0" lengthAdjust="spacingAndGlyphs" fill="#737373">SKILLS</text>
+</g>
+
+<g>
+<circle cx="935" cy="222" r="128" stroke="#5a5a5a"/>
+<ellipse cx="935" cy="332.9" rx="64.0" ry="10.2" stroke="#404040"/>
+<ellipse cx="935" cy="286.0" rx="110.9" ry="17.7" stroke="#404040"/>
+<ellipse cx="935" cy="222.0" rx="128.0" ry="20.5" stroke="#404040"/>
+<ellipse cx="935" cy="158.0" rx="110.9" ry="17.7" stroke="#404040"/>
+<ellipse cx="935" cy="111.1" rx="64.0" ry="10.2" stroke="#404040"/>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#5a5a5a"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="0s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#404040"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="-2s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#5a5a5a"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="-4s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#404040"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="-6s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#5a5a5a"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="-8s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="935" cy="222" rx="128" ry="128" stroke="#404040"><animate attributeName="rx" values="128.0;126.9;123.6;118.3;110.9;101.5;90.5;77.9;64.0;49.0;33.1;16.7;0.0;16.7;33.1;49.0;64.0;77.9;90.5;101.5;110.9;118.3;123.6;126.9;128.0" dur="12s" begin="-10s" repeatCount="indefinite"/></ellipse>
+<g transform="rotate(-18 935 222)"><path d="M 753.24 222 a 181.76 48.64 0 1 1 363.52 0 a 181.76 48.64 0 1 1 -363.52 0" stroke="#262626" stroke-dasharray="2 6"/><rect x="-3.5" y="-3.5" width="7" height="7" fill="#fafafa"><animateMotion path="M 753.24 222 a 181.76 48.64 0 1 1 363.52 0 a 181.76 48.64 0 1 1 -363.52 0" dur="14s" begin="0s" repeatCount="indefinite"/></rect><rect x="-3.5" y="-3.5" width="7" height="7" fill="#fafafa"><animateMotion path="M 753.24 222 a 181.76 48.64 0 1 1 363.52 0 a 181.76 48.64 0 1 1 -363.52 0" dur="14s" begin="-4.666666666666667s" repeatCount="indefinite"/></rect><rect x="-3.5" y="-3.5" width="7" height="7" fill="#fafafa"><animateMotion path="M 753.24 222 a 181.76 48.64 0 1 1 363.52 0 a 181.76 48.64 0 1 1 -363.52 0" dur="14s" begin="-9.333333333333334s" repeatCount="indefinite"/></rect></g>
+<g transform="rotate(24 935 222)"><path d="M 775 222 a 160 38.4 0 1 0 320 0 a 160 38.4 0 1 0 -320 0" stroke="#262626" stroke-dasharray="2 6"/><rect x="-3.5" y="-3.5" width="7" height="7" fill="#fafafa"><animateMotion path="M 775 222 a 160 38.4 0 1 0 320 0 a 160 38.4 0 1 0 -320 0" dur="10s" begin="0s" repeatCount="indefinite"/></rect><rect x="-3.5" y="-3.5" width="7" height="7" fill="#fafafa"><animateMotion path="M 775 222 a 160 38.4 0 1 0 320 0 a 160 38.4 0 1 0 -320 0" dur="10s" begin="-5s" repeatCount="indefinite"/></rect></g>
+<line x1="865" y1="162" x2="945" y2="127" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:0.00s;animation-duration:3.2s"/>
+<line x1="945" y1="127" x2="1015" y2="182" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:0.37s;animation-duration:3.2s"/>
+<line x1="865" y1="162" x2="905" y2="232" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:0.74s;animation-duration:3.2s"/>
+<line x1="905" y1="232" x2="990" y2="267" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:1.11s;animation-duration:3.2s"/>
+<line x1="1015" y1="182" x2="990" y2="267" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:1.48s;animation-duration:3.2s"/>
+<line x1="905" y1="232" x2="855" y2="282" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:1.85s;animation-duration:3.2s"/>
+<line x1="855" y1="282" x2="940" y2="312" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:2.22s;animation-duration:3.2s"/>
+<line x1="990" y1="267" x2="940" y2="312" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:2.59s;animation-duration:3.2s"/>
+<line x1="945" y1="127" x2="905" y2="232" stroke="#a3a3a3" stroke-width=".8" class="pulse" style="animation-delay:2.96s;animation-duration:3.2s"/>
+<circle cx="865" cy="162" r="3.2" fill="#fafafa"/><circle cx="865" cy="162" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="127" r="3.2" fill="#fafafa"/><circle cx="945" cy="127" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="0.45s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="0.45s" repeatCount="indefinite"/></circle>
+<circle cx="1015" cy="182" r="3.2" fill="#fafafa"/><circle cx="1015" cy="182" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="232" r="3.2" fill="#fafafa"/><circle cx="905" cy="232" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="1.35s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="1.35s" repeatCount="indefinite"/></circle>
+<circle cx="990" cy="267" r="3.2" fill="#fafafa"/><circle cx="990" cy="267" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="855" cy="282" r="3.2" fill="#fafafa"/><circle cx="855" cy="282" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="2.25s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="2.25s" repeatCount="indefinite"/></circle>
+<circle cx="940" cy="312" r="3.2" fill="#fafafa"/><circle cx="940" cy="312" r="3" stroke="#fafafa"><animate attributeName="r" values="3;12;3" dur="3s" begin="2.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" begin="2.7s" repeatCount="indefinite"/></circle>
+</g>
+
+<line x1="0" y1="414" x2="1200" y2="414" stroke="#1a1a1a"/>
+<g class="ticker">
+<text x="48" y="442" font-size="12" class="mono" textLength="2930.4" lengthAdjust="spacingAndGlyphs" fill="#737373">BLOCK #01  2012  RAWN TECHNOLOGIES LTD.  0xf04e9620   -&gt;   BLOCK #02  2018  GRACE WEB TECH LTD.  0xebd1860a   -&gt;   BLOCK #03  2022  BMIT SOLUTIONS LTD.  0xe1e714f0   -&gt;   BLOCK #04  2023  RINGTECH BANGLADESH LTD.  0x525a4df9   -&gt;   BLOCK #05  2024  3DEVS IT LTD.  0x0f51d2d2   -&gt;   BLOCK #06  2025  NEXORABYTE IT SOLUTION  0x56677046   -&gt;   BLOCK #07  2025  ALINE MART LTD. / ALINE GROUP  0xdfb87b22   -&gt;   </text>
+<text x="2978.4" y="442" font-size="12" class="mono" textLength="2930.4" lengthAdjust="spacingAndGlyphs" fill="#737373">BLOCK #01  2012  RAWN TECHNOLOGIES LTD.  0xf04e9620   -&gt;   BLOCK #02  2018  GRACE WEB TECH LTD.  0xebd1860a   -&gt;   BLOCK #03  2022  BMIT SOLUTIONS LTD.  0xe1e714f0   -&gt;   BLOCK #04  2023  RINGTECH BANGLADESH LTD.  0x525a4df9   -&gt;   BLOCK #05  2024  3DEVS IT LTD.  0x0f51d2d2   -&gt;   BLOCK #06  2025  NEXORABYTE IT SOLUTION  0x56677046   -&gt;   BLOCK #07  2025  ALINE MART LTD. / ALINE GROUP  0xdfb87b22   -&gt;   </text>
+</g>
+</g>
+</svg>
