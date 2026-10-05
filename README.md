@@ -101,8 +101,6 @@ Lead Software Engineer and Engineering Team Lead with **10+ years** across e-com
   <img src="https://streak-stats.demolab.com?user=RK-Rohan&hide_border=true&border_radius=14&background=000000&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A3A3A3&dates=737373" height="170" alt="Contribution streak for RK-Rohan" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RK-Rohan&bg_color=000000&color=a3a3a3&title_color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=14&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph for RK-Rohan" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RK-Rohan/RK-Rohan/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RK-Rohan/RK-Rohan/output/snake-light.svg" />

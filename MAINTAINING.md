@@ -34,12 +34,13 @@ one runs longer.
 
 ## External images
 
-The stats, streak and activity cards come from public services
-(`github-readme-stats.vercel.app`, `streak-stats.demolab.com`, `github-readme-activity-graph.vercel.app`).
+The stats and streak cards come from public services
+(`github-readme-stats.vercel.app`, `streak-stats.demolab.com`).
 They only count public activity, plus private contribution *counts* if "Include private
 contributions on my profile" is turned on in GitHub settings. They never show private repository
 names. If a service goes down or rate-limits, the card shows as a broken image: self-host it on
 Vercel or remove that `<img>`.
 
-The snake images exist once the **Contribution snake** workflow has run. Trigger it from the
+The snake doubles as the contribution-activity graph. (`github-readme-activity-graph.vercel.app`
+was dropped: it returned HTTP 402 in October 2026.) The snake images exist once the **Contribution snake** workflow has run. Trigger it from the
 Actions tab (or `gh workflow run snake.yml`) if they're missing.
